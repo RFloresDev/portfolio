@@ -97,16 +97,8 @@ const technologies = [
 		icon: mongodb,
 	},
 	{
-		name: "Three JS",
-		icon: threejs,
-	},
-	{
 		name: "git",
 		icon: git,
-	},
-	{
-		name: "figma",
-		icon: figma,
 	},
 	{
 		name: "docker",
@@ -120,12 +112,12 @@ const experiences = [
 		company_name: "Upwork",
 		icon: meta,
 		iconBg: "#383E56",
-		date: "Jan 2023 - Present",
+		date: "Sep 2024 - Present",
 		points: [
-			"Desarrollando y manteniendo aplicaciones web utilizando MERN stack y WordPress.",
-			"Trabajando con clientes internacionales para diseñar y optimizar embudos de venta en GoHighLevel.",
-			"Implementando estrategias de SEO y optimización para mejorar la conversión en sitios web.",
-			"Colaborando en proyectos de e-commerce y plataformas personalizadas con alta escalabilidad.",
+			"Developing and maintaining web applications using the MERN stack and WordPress.",
+			"Working with international clients to design and optimize sales funnels in GoHighLevel.",
+			"Implementing SEO strategies and optimizations to improve conversion rates on websites.",
+			"Collaborating on e-commerce projects and custom platforms with high scalability.",
 		],
 	},
 	{
@@ -135,10 +127,10 @@ const experiences = [
 		iconBg: "#E6DEDD",
 		date: "Sep 2022 - Dec 2022",
 		points: [
-			"Diseño y desarrollo de sitios web personalizados utilizando WordPress y Elementor.",
-			"Optimización de contenido para mejorar el posicionamiento SEO y aumentar la conversión.",
-			"Integración de herramientas de automatización y marketing digital para maximizar el rendimiento de las campañas.",
-			"Colaboración con el equipo de marketing para alinear estrategias digitales con los objetivos de negocio.",
+			"Design and development of custom websites using WordPress and Elementor.",
+			"Content optimization to improve SEO ranking and increase conversion.",
+			"Integration of automation tools and digital marketing strategies to maximize campaign performance.",
+			"Collaboration with the marketing team to align digital strategies with business goals.",
 		],
 	},
 	{
