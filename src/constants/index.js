@@ -134,16 +134,16 @@ const experiences = [
 		],
 	},
 	{
-		title: "Gerente Comercial",
+		title: "Commercial Manager",
 		company_name: "Científica Inca",
 		icon: cientifica,
 		iconBg: "#E6DEDD",
 		date: "Feb 2023 - Jun 2024",
 		points: [
-			"Gestión de ventas y relaciones comerciales en el sector de reactivos, insumos y equipos para laboratorio clínico.",
-			"Análisis de mercado y estrategias de expansión para aumentar la cuota de mercado.",
-			"Manejo de inventarios y planificación logística para garantizar disponibilidad de productos clave.",
-			"Negociación con proveedores y clientes para optimizar costos y mejorar márgenes de ganancia.",
+			"Sales management and business relations in the clinical laboratory reagents, supplies, and equipment sector.",
+			"Market analysis and expansion strategies to increase market share.",
+			"Inventory management and logistics planning to ensure the availability of key products.",
+			"Negotiation with suppliers and clients to optimize costs and improve profit margins.",
 		],
 	},
 ];
