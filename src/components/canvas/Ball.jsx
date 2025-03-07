@@ -24,7 +24,6 @@ const Ball = (props) => {
 					polygonOffset
 					polygonOffsetFactor={-5}
 					flatShading:true
-					metalness={0.5}
 					roughness={0.1}
 				/>
 				<Decal
@@ -32,7 +31,9 @@ const Ball = (props) => {
 					rotation={[2 * Math.PI, 0, 6.25]}
 					scale={1}
 					map={decal}
-					flatShading
+					depthTest={false}
+					depthWrite={true}
+					flatShading={false}
 				/>
 			</mesh>
 		</Float>
