@@ -151,27 +151,28 @@ const experiences = [
 const testimonials = [
 	{
 		testimonial:
-			"I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-		name: "Sara Lee",
-		designation: "CFO",
-		company: "Acme Co",
-		image: "https://randomuser.me/api/portraits/women/4.jpg",
+			"Thank you for your excellent work and for bringing such a fresh and impactful vision to the brand. We’re thrilled with the outcome!",
+		name: "Astrid Vargas",
+		designation: "CEO",
+		company: "Social-Ties",
+		image:
+			"https://media.licdn.com/dms/image/v2/D4E35AQEMwXerDc99bg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1686751103475?e=1741957200&v=beta&t=kpEIU7pfcrvkbKQIJozMAtGxKJjsX58Wx1Wg68M4JWQ",
 	},
 	{
 		testimonial:
-			"I've never met a web developer who truly cares about their clients' success like Rick does.",
-		name: "Chris Brown",
+			"Richard is a reliable professional who consistently exceeds expectations. His great work has led me to trust him with more projects, and I will continue to do so. Highly recommended!",
+		name: "Ryan Sample",
 		designation: "COO",
-		company: "DEF Corp",
-		image: "https://randomuser.me/api/portraits/men/5.jpg",
+		company: "Milestone Marketing",
+		image: "https://www.iconpacks.net/icons/2/free-user-icon-3297-thumb.png",
 	},
 	{
 		testimonial:
-			"After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-		name: "Lisa Wang",
-		designation: "CTO",
-		company: "456 Enterprises",
-		image: "https://randomuser.me/api/portraits/women/6.jpg",
+			"A pleasure to work with. Richard has exceeded expectations with every project. Because of his great work and reliability, I have been using him with more of my projects and will continue to do so. Highly recommend him!",
+		name: "Ryan Sample",
+		designation: "COO",
+		company: "Milestone Marketing",
+		image: "https://www.iconpacks.net/icons/2/free-user-icon-3297-thumb.png",
 	},
 ];
 
